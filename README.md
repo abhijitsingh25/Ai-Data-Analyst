@@ -2,7 +2,7 @@
 
 Turn natural language questions into executable SQL against your local SQLite database. This project uses LangChain with local Ollama models and runs on the ultra-fast `uv` Python package manager.
 
-## Demo
+## Demo (Skip to 7:04 if you only want to check the system output)
 [Click here to watch the demo video](https://drive.google.com/file/d/1SZOXlpEgjyHWNFBLxdgsAPVDwnqnBqRo/view?usp=sharing)
 
 
@@ -138,5 +138,6 @@ MIT (adjust in `pyproject.toml` if you choose a different one)
 
 ---
 Built with local AI + fast Python tooling.
+
 
 
